@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1, #one{
+    color: white;
+    background: orange;
+    text-align: center;
+    
+}
+h1, #two{
+    color: black;
+    background: white;
+    text-align: center;
+    
+}
+h1, #three{
+    color: white;
+    background: green;
+    text-align: center;
+}
